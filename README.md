@@ -16,8 +16,8 @@
 ###www.smartlab.ws
 ###==================================================
 
-###For each record it is provided:
-###======================================
+###As is stated in the README.txt for each record it is provided:
+###==================================================
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 - Triaxial Angular velocity from the gyroscope. 
@@ -119,6 +119,8 @@ The following files are available for the train and test data. Their description
 ###======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
+- **The analysis does not use the detailed data records.**
+
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
@@ -133,7 +135,7 @@ The output from the run_analysis.R program is a data frame containing the merged
 ##===================
 Once the dataset is unzipped in the working directory run_analysis is sourced and then run in R without any parameters. When unzipped all the data will be in a directory called UCI HAR Dataset.
 
-x <- run_analysis()
+####x <- run_analysis()
 
 
 ##Processing steps
