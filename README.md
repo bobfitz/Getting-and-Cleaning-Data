@@ -152,13 +152,13 @@ x <- run_analysis()
 
 ##Code Book
 ##=========
-
+```
 
 Subjects	2 Integer
 		Code to identify the subjects in the study	
 		Range is from 01 to 30 
 
-Activities	18 Character ```
+Activities	18 Character
 		Activities of the subjects 
 		WALKING
 		WALKING_UPSTAIRS
@@ -166,8 +166,8 @@ Activities	18 Character ```
 		SITTING
 		STANDING
 		LAYING
-		```
-tBodyAcc-mean()-X 5 Numeric```
+		
+tBodyAcc-mean()-X 5 Numeric
 		Average of the raw data with the same name
 ```
 tBodyAcc-mean()-Y 5 Numeric
