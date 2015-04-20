@@ -119,7 +119,7 @@ The following files are available for the train and test data. Their description
 ###======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
-- **The analysis does not use the detailed data records.**
+- **The analysis does not use the detailed intertial signals data.**
 
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
