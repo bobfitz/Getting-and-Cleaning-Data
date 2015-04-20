@@ -165,209 +165,209 @@ Subjects	2 Integer
 
 Activities	18 Character
 		Activities of the subjects 
-		 WALKING
-		 WALKING_UPSTAIRS
-		 WALKING_DOWNSTAIRS
-		 SITTING
-		 STANDING
-		 LAYING
+		WALKING
+		WALKING_UPSTAIRS
+		WALKING_DOWNSTAIRS	
+		SITTING
+		STANDING
+		LAYING
 		
-tBodyAcc-mean()-X 5 Numeric 
+tBodyAcc-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAcc-mean()-Y 5 Numeric 
+tBodyAcc-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAcc-mean()-Z 5 Numeric 
+tBodyAcc-mean()-Z 5 Numeric
 		Average of the raw data with the same name          
 
-tBodyAcc-std()-X 5 Numeric 
+tBodyAcc-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAcc-std()-Y 5 Numeric 
+tBodyAcc-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAcc-std()-Z 5 Numeric 
+tBodyAcc-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-mean()-X 5 Numeric 
+tGravityAcc-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-mean()-Y 5 Numeric 
+tGravityAcc-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-mean()-Z 5 Numeric 
+tGravityAcc-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-std()-X 5 Numeric 
+tGravityAcc-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-std()-Y 5 Numeric 
+tGravityAcc-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAcc-std()-Z 5 Numeric 
+tGravityAcc-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-mean()-X 5 Numeric 
+tBodyAccJerk-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-mean()-Y 5 Numeric 
+tBodyAccJerk-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-mean()-Z 5 Numeric 
+tBodyAccJerk-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-std()-X 5 Numeric 
+tBodyAccJerk-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-std()-Y 5 Numeric 
+tBodyAccJerk-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerk-std()-Z 5 Numeric 
+tBodyAccJerk-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-mean()-X 5 Numeric 
+tBodyGyro-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-mean()-Y 5 Numeric 
+tBodyGyro-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-mean()-Z 5 Numeric 
+tBodyGyro-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-std()-X 5 Numeric 
+tBodyGyro-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-std()-Y 5 Numeric 
+tBodyGyro-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyro-std()-Z 5 Numeric 
+tBodyGyro-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-mean()-X 5 Numeric 
+tBodyGyroJerk-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-mean()-Y 5 Numeric 
+tBodyGyroJerk-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-mean()-Z 5 Numeric 
+tBodyGyroJerk-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-std()-X 5 Numeric 
+tBodyGyroJerk-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-std()-Y 5 Numeric 
+tBodyGyroJerk-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerk-std()-Z 5 Numeric 
+tBodyGyroJerk-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccMag-mean() 5 Numeric 
+tBodyAccMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccMag-std() 5 Numeric 
+tBodyAccMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAccMag-mean() 5 Numeric 
+tGravityAccMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-tGravityAccMag-std() 5 Numeric 
+tGravityAccMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerkMag-mean() 5 Numeric 
+tBodyAccJerkMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyAccJerkMag-std() 5 Numeric 
+tBodyAccJerkMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroMag-mean() 5 Numeric 
+tBodyGyroMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroMag-std() 5 Numeric 
+tBodyGyroMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerkMag-mean() 5 Numeric 
+tBodyGyroJerkMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-tBodyGyroJerkMag-std() 5 Numeric 
+tBodyGyroJerkMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAcc-mean()-X 5 Numeric 
+fBodyAcc-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
 fBodyAcc-mean()-Y 5 Numeric 
 		Average of the raw data with the same name
 
-fBodyAcc-mean()-Z 5 Numeric 
+fBodyAcc-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAcc-std()-X 5 Numeric 
+fBodyAcc-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAcc-std()-Y 5 Numeric 
+fBodyAcc-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAcc-std()-Z 5 Numeric 
+fBodyAcc-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-mean()-X 5 Numeric 
+fBodyAccJerk-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-mean()-Y 5 Numeric 
+fBodyAccJerk-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-mean()-Z 5 Numeric 
+fBodyAccJerk-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-std()-X 5 Numeric 
+fBodyAccJerk-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-std()-Y 5 Numeric 
+fBodyAccJerk-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccJerk-std()-Z 5 Numeric 
+fBodyAccJerk-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-mean()-X 5 Numeric 
+fBodyGyro-mean()-X 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-mean()-Y 5 Numeric 
+fBodyGyro-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-mean()-Z 5 Numeric 
+fBodyGyro-mean()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-std()-X 5 Numeric 
+fBodyGyro-std()-X 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-std()-Y 5 Numeric 
+fBodyGyro-std()-Y 5 Numeric
 		Average of the raw data with the same name
 
-fBodyGyro-std()-Z 5 Numeric 
+fBodyGyro-std()-Z 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccMag-mean() 5 Numeric 
+fBodyAccMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyAccMag-std() 5 Numeric 
+fBodyAccMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyAccJerkMag-mean() 5 Numeric 
+fBodyBodyAccJerkMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyAccJerkMag-std() 5 Numeric 
+fBodyBodyAccJerkMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyGyroMag-mean() 5 Numeric 
+fBodyBodyGyroMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyGyroMag-std() 5 Numeric 
+fBodyBodyGyroMag-std() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyGyroJerkMag-mean() 5 Numeric 
+fBodyBodyGyroJerkMag-mean() 5 Numeric
 		Average of the raw data with the same name
 
-fBodyBodyGyroJerkMag-std() 5 Numeric 
+fBodyBodyGyroJerkMag-std() 5 Numeric
 		Average of the raw data with the same name
 
 
