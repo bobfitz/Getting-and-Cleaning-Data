@@ -1,20 +1,20 @@
 # Getting the data
 
-###The data can be found at [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip] 
+###The data can be found at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
   and **the zip file must be unzipped in the working directory for the R script to work properly**. 
 
 ##The raw data comes from:
-###==================================================================
+###==================================================
 ###Human Activity Recognition Using Smartphones Dataset
 ###Version 1.0
-###==================================================================
+###==================================================
 ###Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 ###Smartlab - Non Linear Complex Systems Laboratory
 ###DITEN - Universit‡ degli Studi di Genova.
 ###Via Opera Pia 11A, I-16145, Genoa, Italy.
 ###activityrecognition@smartlab.ws
 ###www.smartlab.ws
-###==================================================================
+###==================================================
 
 ###For each record it is provided:
 ###======================================
@@ -138,18 +138,18 @@ x <- run_analysis()
 
 ##Processing steps
 ##============= 
-1. for each text file it uses read.table() to load them into RStudio running the following: 
-R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
-Copyright (C) 2014 The R Foundation for Statistical Computing
-Platform: x86_64-apple-darwin13.4.0 (64-bit)
+1. for each text file it uses read.table() to load them into RStudio running the following:    
+**R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet”**
+**Copyright (C) 2014 The R Foundation for Statistical Computing**
+**Platform: x86_64-apple-darwin13.4.0 (64-bit)**
 
 2. 	it combines data files by first binding the subject, x, and y files together for test and train and then merging the test and train to get a complete set. 
 	
 3. 	It uses grep to find std and mean columns and saves them in an index.
 
-4. 	It puts the activity labels on with the merge() command.   
+4. 	It puts the activity labels on with the merge() command.
 
-5.  	It puts the features on as nice names for column names  using a for loop. 
+5.  	It puts the features on as nice names for column names  using a for loop.
 
 6. 	It subsets the data to get the mean() and std() columns for the tidy dataset by using the index saved in step 3.  
 7.  	It generates a mean for each variable by each subject and activity and returns the tidy dataset.
@@ -161,7 +161,7 @@ Platform: x86_64-apple-darwin13.4.0 (64-bit)
 ##=========
 
 
-Subjects	2 Integer
+Subjects	2 Integer 
 		Code to identify the subjects in the study 
 		range is from 01 to 30 
 
