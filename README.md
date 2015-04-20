@@ -148,7 +148,7 @@ x <- run_analysis()
 2. It uses grep to find std and mean columns and saves them in an index.
 3. It puts the activity labels on with the merge() command.
 4. It puts the features on as nice names for column names  using a for loop.
-5. It subsets the data to get the mean() and std() columns for the tidy dataset by using the index saved in step 3.
+5. It subsets the data to get the mean() and std() columns for the tidy dataset by using the index saved in step 2.
 6. It generates a mean for each variable by each subject and activity and returns the tidy dataset.
 
 
