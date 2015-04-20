@@ -139,9 +139,11 @@ x <- run_analysis()
 ##Processing steps
 ##============= 
 1. For each text file it uses read.table() to load them into RStudio running the following:
-        -R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet”
-        -Copyright (C) 2014 The R Foundation for Statistical Computing
-        -Platform: x86_64-apple-darwin13.4.0 (64-bit)
+
+  -R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet
+  -Copyright (C) 2014 The R Foundation for Statistical Computing
+  -Platform: x86_64-apple-darwin13.4.0 (64-bit)
+
 2. It combines data files by first binding the subject, x, and y files together for test and train and then merging the test and train to get a complete set.
 3. It uses grep to find std and mean columns and saves them in an index.
 4. It puts the activity labels on with the merge() command.
