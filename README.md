@@ -155,15 +155,13 @@ x <- run_analysis()
 7.  	It generates a mean for each variable by each subject and activity and returns the tidy dataset.
 
 
-
-
 ##Code Book
 ##=========
 
 
-Subjects	2 Integer 
-		Code to identify the subjects in the study 
-		range is from 01 to 30 
+Subjects	2 Integer
+		Code to identify the subjects in the study	
+		Range is from 01 to 30 
 
 Activities	18 Character
 		Activities of the subjects 
@@ -371,5 +369,7 @@ fBodyBodyGyroJerkMag-mean() 5 Numeric
 
 fBodyBodyGyroJerkMag-std() 5 Numeric 
 		Average of the raw data with the same name
+
+
  
 
