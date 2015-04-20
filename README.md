@@ -169,7 +169,7 @@ Activities	18 Character
 		
 tBodyAcc-mean()-X 5 Numeric
 		Average of the raw data with the same name
-```
+
 tBodyAcc-mean()-Y 5 Numeric
 		Average of the raw data with the same name
 
