@@ -144,12 +144,12 @@ x <- run_analysis()
 	**Copyright (C) 2014 The R Foundation for Statistical Computing**
 	**Platform: x86_64-apple-darwin13.4.0 (64-bit)**
 ```
-2. 	it combines data files by first binding the subject, x, and y files together for test and train and then merging the test and train to get a complete set.
-3. 	It uses grep to find std and mean columns and saves them in an index.
-4.	It puts the activity labels on with the merge() command.
-5.	It puts the features on as nice names for column names  using a for loop.
-6.	It subsets the data to get the mean() and std() columns for the tidy dataset by using the index saved in step 3.
-7.  	It generates a mean for each variable by each subject and activity and returns the tidy dataset.
+2. it combines data files by first binding the subject, x, and y files together for test and train and then merging the test and train to get a complete set.
+3. It uses grep to find std and mean columns and saves them in an index.
+4. It puts the activity labels on with the merge() command.
+5. It puts the features on as nice names for column names  using a for loop.
+6. It subsets the data to get the mean() and std() columns for the tidy dataset by using the index saved in step 3.
+7. It generates a mean for each variable by each subject and activity and returns the tidy dataset.
 
 
 ##Code Book
